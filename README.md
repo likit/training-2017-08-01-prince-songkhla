@@ -1,4 +1,4 @@
-# Python for Big Data
+# Basic Python for Big Data Analytics
 
 ## Venue
 ภาควิชาบริหารเภสัชกิจ คณะเภสัชศาสตร์ มหาวิทยาลัยสงขลานครินทร์
@@ -13,9 +13,18 @@
 
 |Day|Time|Topics|
 |:---:|:---:|----|
-|1|9.00-10.00|Introduction to Data Science and Python|
-||10.00-10.30|Basic Computer Programming|
+|1|9.00-10.00|Challenges of big data for scientists|
+||10.00-10.30|Basic computer programming concepts|
 ||10.30-10.45|Coffee break|
 ||10.45-11.15|Introduction to Jupyter|
-||11.15-12.00|Basic Python: Data-First Approach|
-||13.00-16.00|Basicc Python (continue)|
+||11.15-12.00|Basic Python: basic syntax, data structures|
+||13.00-15.30|Basic Python: (continue)|
+||15.30-16.30|Basic Python: control flow and function|
+|2|9.00-10.30|Basic Python: functional programming|
+||10.30-10.45|Coffee break|
+||10.45-12.00|Introduction to Pandas|
+||13.00-16.30|Data manipulation and exploration using Pandas|
+|3|9.00-10.30|Data analysis using pandas|
+||10.30-10.45|Coffee break|
+||10.45-12.00|Data analysis (continue)|
+||13.00-15.30|Data analysis (continue)|
