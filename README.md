@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Python for Big Data
 
-You can use the [editor on GitHub](https://github.com/likit/training-2017-08-01-prince-songkhla/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Venue
+ภาควิชาบริหารเภสัชกิจ คณะเภสัชศาสตร์ มหาวิทยาลัยสงขลานครินทร์
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Duration
+ 4th - 6th Aug, 2017
 
-### Markdown
+## Schedule
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/likit/training-2017-08-01-prince-songkhla/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+|Day|Time|Topics|
+|:---:|:---:|----|
+|1|9.00-10.00|Introduction to Data Science and Python|
+||10.00-10.30|Basic Computer Programming|
+||10.30-10.45|Coffee break|
+||10.45-11.15|Introduction to Jupyter|
+||11.15-12.00|Basic Python: Data-First Approach|
+||13.00-16.00|Basicc Python (continue)|
