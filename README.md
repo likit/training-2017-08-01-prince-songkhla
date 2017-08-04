@@ -22,9 +22,9 @@
 ||10.45-11.15|Introduction to Anaconda, IPython and Jupyter|
 ||11.15-12.00|Basic Python: basic syntax, data structures|
 ||13.00-15.30|Basic Python: (continue)|
-||15.30-16.30|Basic Python: control flow and function|
+||15.30-16.30|Basic Python: control flow|
 |||Programming best practice|
-|2|9.00-10.30|Basic Python: functional programming|
+|2|9.00-10.30|Basic Python: function and functional programming|
 ||10.30-10.45|Coffee break|
 ||10.45-12.00|Introduction to Pandas|
 ||13.00-16.30|Data manipulation and exploration using Pandas|
