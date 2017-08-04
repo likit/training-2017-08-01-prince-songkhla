@@ -34,6 +34,8 @@
 ||13.00-15.30|Data analysis (continue)|
 
 ## Resources
+### Data Science
+* https://www.oreilly.com/learning/a-lesson-in-prescriptive-modeling?imm_mid=0f4fe5&cmp=em-data-na-na-newsltr_20170802
 ### Python
 * https://wiki.python.org/moin/BeginnersGuide/Programmers
 ### Anaconda
