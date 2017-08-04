@@ -9,6 +9,9 @@
 ## Date
  4th - 6th Aug, 2017
 
+## Etherpad
+* https://etherpad.net/p/psu-python-training-2017
+
 ## Schedule
 
 |Day|Time|Topics|
